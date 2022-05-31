@@ -16,3 +16,7 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+
+# folders
+old_tabs
+old_posts

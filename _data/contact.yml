@@ -4,16 +4,31 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://fr.linkedin.com/in/merveille-eguida'                  # Fill with your Linkedin homepage
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: researchgate
+  icon: 'fab fa-researchgate'
+  url: 'https://www.researchgate.net/profile/Merveille-Eguida'
+-
+  type: googlescholar
+  icon: 'ai ai-google-scholar-square'
+  url: 'https://scholar.google.com/citations?hl=fr&user=yro_dgIAAAAJ'
+-
+  type: twitter
+  icon: 'fab fa-twitter'
+
+#-
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
+
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
