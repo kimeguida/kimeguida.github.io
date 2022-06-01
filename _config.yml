@@ -24,12 +24,13 @@ timezone: Europe/Paris
 title: Merveille Eguida                          # the main title
 
 tagline: PhD candidate in Cheminformatics and Modeling   # it will display as the sub-title
+cvurl: htttps://link to my CV 
 
 description: >-                        # used by seo meta and the atom feed
   A minimal profetional website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://kimeguida.github.io'
 
 github:
   username: kimeguida           # change to your github username
