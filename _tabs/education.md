@@ -22,8 +22,9 @@ Course work and wet lab practicals: molecular and cell biology, microbiology, st
 Basics in biology, organic chemistry, synthesis, chemical characterization, mathematics, statistics, databases (SQL), bioinformatics, programming (C).
 
 
-## MOOCs
+## MOOCs (Massive Online Open Courses)
 
+Machine learning fundamentals by MIT and Stanford, since 2019. <br>
 Data Analysis for Life Sciences 1: Statistics and R, edX 2016. [certificate](https://courses.edx.org/certificates/6fdc13aaed454cf6b8333b9447b4a9da){:target="\_blank"}<br>
 Medicinal Chemistry: The Molecular Basis of Drug Discovery, edX 2016. [certificate](https://courses.edx.org/certificates/0c46a56129884ea98fd0ba1765d32cd4){:target="\_blank"}<br>
 Essential Human Biology: Cells and Tissues, edX 2015. [certificate](https://verify.edx.org/cert/f052a9deedfe4b1ba6687744a43b7b56){:target="\_blank"}<br>
